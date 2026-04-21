@@ -22,6 +22,6 @@ Bu talimatlar, projeyi yerel bilgisayarınızda çalıştırmak için gerekli ad
 - **HTML, CSS** ile temel yapı
 - **Bootstrap** kullanıldı
 
-# Tanıtım videosu
-(paylastıkca-guzel.gif)
+
+![tanıtım](paylastıkca-guzel.gif)
 
