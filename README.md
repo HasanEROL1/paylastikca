@@ -23,5 +23,5 @@ Bu talimatlar, projeyi yerel bilgisayarınızda çalıştırmak için gerekli ad
 - **Bootstrap** kullanıldı
 
 # Tanıtım videosu
-img src ="paylastıkca-guzel.gif"
+(paylastıkca-guzel.gif)
 
